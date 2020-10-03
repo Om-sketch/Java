@@ -1,5 +1,4 @@
 //Section 3
-
 class Shape{
     int x,y,length,width;
     public Shape(int x,int y,int l,int w){
