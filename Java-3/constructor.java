@@ -1,3 +1,7 @@
+// 1.Create a package with your name+roll number as a package name.
+// 2.Create the program using constructors instead of setters
+// 3.Create a method in the Student class that displays the number of student object created.
+
 class Student{
     private String name;
     private int roll;
