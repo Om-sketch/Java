@@ -1,4 +1,9 @@
 //Section 3
+// 1.Create a class called Shape. It should contain x-axis, y-axis, length and width as instance variables.
+//  You should design the class to accommodate following requirements
+//  ●A user can give values to all four attributes
+//  ●If only two values are provided then those values should be assigned to length and width and the values of x-axis and y-axis should default to 0.
+//  ●If no values are given, the x-axis and y-axis should default to 0 and that of length and width should be equal to 1.
 class Shape{
     int x,y,length,width;
     public Shape(int x,int y,int l,int w){
