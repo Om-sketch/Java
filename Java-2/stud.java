@@ -1,3 +1,7 @@
+// Section 2
+// 1.Create a package with your name+roll number as a package name.
+// 2.Inside the package create a class named Student with name, roll, college as the attributes.
+// 3.Create getters and setters function to initialise and display each of the attributes.
 package nameroll;
 class Student{
     private String name;
